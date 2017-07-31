@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WayOnMap1</string>
+    <string name="button_text">Загрузить путь</string>
+    <string name="google_maps_key">AIzaSyDmynb_NE5EsBKONMUIPzJBezpms9MXxBU</string>
+</resources>
